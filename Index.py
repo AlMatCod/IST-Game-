@@ -1,4 +1,6 @@
-
+# Made by IST Technology    2025
+# Telegram: @ISToffical
+#GitHub: AlMatCod
 import pyautogui
 import time
 import random
