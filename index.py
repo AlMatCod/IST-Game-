@@ -1,3 +1,7 @@
+# Made by IST Technology    
+# Telegram: @ISToffical
+#GitHub: AlMatCod
+
 import pyautogui
 import time
 import random
@@ -83,5 +87,5 @@ def ai_loop():
             send_syntax_error_message()  # Отправляем сообщение об ошибке
             error_time = time.time()  # Обновляем время для нового отсчета 60 секунд
 
-# Запуск цикла ИИ
+
 ai_loop()
